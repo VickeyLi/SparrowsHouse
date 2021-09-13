@@ -10,4 +10,5 @@ meta: "Springfield"
 
 Welcome!
 
-[Please download our syllabus.](/Users/hajimukinu/Documents/GitHub/SparrowsHouse/images/1.22.54.jpg)
+
+<a href="default.asp"><img src="/images/1.22.54.jpg" alt="descriptive text" style="width:420px;"></a>
