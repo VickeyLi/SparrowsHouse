@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sparrows House|Previous Sesearch"
-categories: junk
-author:
+categories: Studio Fall 2021
+author: Li Jinyu
 - Bart Simpson
 - Nelson Mandela Muntz
 meta: "Springfield"
@@ -11,4 +11,5 @@ meta: "Springfield"
 Welcome!
 
 
-<a href="default.asp"><img src="/images/1.22.54.jpg" alt="descriptive text" style="width:420px;"></a>
+
+
