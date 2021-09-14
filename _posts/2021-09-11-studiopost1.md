@@ -1,4 +1,4 @@
-#Sparrows House | Previous Search
+Sparrows House | Previous Search
 
 ---
 This project is about designing a tiny house with an area of no more than 400 square feet in Salt Lake City, USA.
@@ -16,6 +16,7 @@ Feature:
 1). The entrance is triangular to save space, and the width of the door can be made longer.
 2). The stairs are hollow, and the space can be enlarged from the line of sight.
 3). Three storey structure to expand the space vertically.
+![1-1](https://user-images.githubusercontent.com/90524185/133316603-4e8ea90e-f62b-469d-956b-80ce45aecbf4.jpeg)
 
 2) Reflection of Mineral, Tokyo, Japan
 Architect: Atelier Tekuto
@@ -23,6 +24,7 @@ Area: 47.4 sq ft
 Feature:
 1). The irregular shape of the building increases the volume that can be carried inside the. building
 2). There is room downstairs for parking.
+![2-1](https://user-images.githubusercontent.com/90524185/133316667-b12df469-e0de-4663-b351-056304a0ff33.jpeg)
 
 ####· Some technologies can be used in this project.
 1. Use of the roof
