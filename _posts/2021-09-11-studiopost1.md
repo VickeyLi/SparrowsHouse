@@ -24,7 +24,8 @@ Area: 47.4 sq ft
 Feature:
 1). The irregular shape of the building increases the volume that can be carried inside the. building
 2). There is room downstairs for parking.
-![2-1](https://user-images.githubusercontent.com/90524185/133316667-b12df469-e0de-4663-b351-056304a0ff33.jpeg)
+![1-2](https://user-images.githubusercontent.com/90524185/134607228-13058416-c1a8-4b5e-83b0-ac40ab1028e8.jpeg)
+
 
 ####· Some technologies can be used in this project.
 1. Use of the roof
