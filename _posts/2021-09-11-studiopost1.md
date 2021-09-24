@@ -16,7 +16,8 @@ Feature:
 1). The entrance is triangular to save space, and the width of the door can be made longer.
 2). The stairs are hollow, and the space can be enlarged from the line of sight.
 3). Three storey structure to expand the space vertically.
-![Uploading 1-1.jpeg…](Hello)
+![1-1](https://user-images.githubusercontent.com/90524185/134608355-0fbbb4f9-2591-4e63-90c8-0e951f82f050.jpeg)
+
 
 
 2) Reflection of Mineral, Tokyo, Japan
@@ -25,7 +26,7 @@ Area: 47.4 sq ft
 Feature:
 1). The irregular shape of the building increases the volume that can be carried inside the. building
 2). There is room downstairs for parking.
-![Uploading 1-2.jpeg…](Hello)
+![1-2](https://user-images.githubusercontent.com/90524185/134608367-0447617a-f557-401f-8eb6-6e4f6b250b31.jpeg)
 
 
 ####· Some technologies can be used in this project.
