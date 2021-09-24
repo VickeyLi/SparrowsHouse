@@ -16,7 +16,8 @@ Feature:
 1). The entrance is triangular to save space, and the width of the door can be made longer.
 2). The stairs are hollow, and the space can be enlarged from the line of sight.
 3). Three storey structure to expand the space vertically.
-![1-1](https://user-images.githubusercontent.com/90524185/133316603-4e8ea90e-f62b-469d-956b-80ce45aecbf4.jpeg)
+![Uploading 1-1.jpeg…](Hello)
+
 
 2) Reflection of Mineral, Tokyo, Japan
 Architect: Atelier Tekuto
@@ -24,7 +25,7 @@ Area: 47.4 sq ft
 Feature:
 1). The irregular shape of the building increases the volume that can be carried inside the. building
 2). There is room downstairs for parking.
-![1-2](https://user-images.githubusercontent.com/90524185/134607228-13058416-c1a8-4b5e-83b0-ac40ab1028e8.jpeg)
+![Uploading 1-2.jpeg…](Hello)
 
 
 ####· Some technologies can be used in this project.
