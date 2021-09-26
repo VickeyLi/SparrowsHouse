@@ -39,9 +39,3 @@ Feature:
 ![1-2](https://images.adsttc.com/media/images/5014/ad7b/28ba/0d39/5000/0cba/slideshow/stringio.jpg?1414214600)
 
 
-· Some technologies can be used in this project.
-1. Use of the roof
-
-2. Foldable furniture
-
-3. ground floor space outside for other purposes ( such as garge, garden, etc.)
