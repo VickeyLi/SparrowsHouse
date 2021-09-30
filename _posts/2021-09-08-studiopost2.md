@@ -16,7 +16,7 @@ Search some technologies/ways that can be used in tiny house:
 
 2.	Foldable furniture can reduce land use
 
-![image](https://lh3.googleusercontent.com/proxy/Sump1HkkkcmmB1KnxmSZWmZTgkz3Q35Z1ttITGufcNWjrlR4rTcaVsn_lLbF2dUhz2ToBbPQxTCQCcyC9Xtclttm3z0BtI-RQ5_mcaWpGwbs9_tfYeIPHxWsaOsHl6OaJN2jLjIC2678UARs)
+![image](https://www.godownsize.com/wp-content/uploads/2019/02/flip-murphy-bed.jpg)
 
 3.	Space is reserved on the ground floor for other purposes (such as garage, garden, etc.)
 
