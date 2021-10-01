@@ -7,10 +7,10 @@ This project is about designing a tiny house with an area of no more than 400 sq
 The project is a small residence with an area of 36.5 square meters in the city, which is suitable for 3-4 people. My idea is to put it on a street corner of the residential area. When a white strange geometry appears in a group of houses with similar shapes, it will be more dazzling and become a feature of the whole block. At the same time, in order to save space, mobile stairs are used inside the building, which can not only be used as stairs for living up and down, but also be used as shelves for discharging goods and put them on one side of the room when not in use. In addition, the exterior of the whole building is mainly made of concrete, but at the same time, several relatively small walls are made of all glass, which not only provides daylighting, but also gives residents a better vision.
 
 ## Interior Photosphere
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/cyv5YxXZj9dRqsN.jpg&title=Interior%20Photosphere&author=Vickey"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/mt7PnzGhMeJw83f.jpg&title=Interior%20Photosphere&author=vickey&autoLoad=true"></iframe>
 
 ## Exterior Photosphere
-<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/Y8Za4EizqHns19m.jpg&title=Exterior%20Photosphere&author=vickey"></iframe>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//i.loli.net/2021/10/01/h8J9HCzAlPmxVqL.jpg&title=Exterior%20Photosphere&author=vickey&autoLoad=true"></iframe>
 
 ## GIF
 ![001](https://user-images.githubusercontent.com/90524185/135558284-bef2ce39-1821-4535-baae-1b02ccf6a23d.gif)
